@@ -10,3 +10,5 @@ Digital modulation simulation codes. Currently available modulation and demodula
 - DPSK noncoherent demodulation
 
 Codes are currently available for MATLAB/GNU Octave.
+
+![BER](ber.png)
